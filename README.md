@@ -1,1 +1,1 @@
-# causal_relations_in_text
+# Causal Relation Extraction in Natural Language Text
