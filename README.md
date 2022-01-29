@@ -5,6 +5,10 @@
 * [Handling Multiword Expressions in Causality Estimation](https://aclanthology.org/W17-6937.pdf) (2017)
 * [Joint Reasoning for Temporal and Causal Relations](https://aclanthology.org/P18-1212.pdf) (2018)
 
+## Data
+For a complete list of datasets and benchmarks, check the following repository:
+[https://github.com/phosseini/crest](https://github.com/phosseini/crest)
+
 
 ## Surveys
 * [Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey](https://arxiv.org/abs/1605.07895) (2016)
