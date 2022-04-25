@@ -1,6 +1,8 @@
 # Causal Relation Extraction in Natural Language Text
 
 ## Papers
+* [Deep domain models for discourse analysis](https://ieeexplore.ieee.org/document/47325) (1989)
+    * [Leo Joskowicz](https://www.cs.huji.ac.il/~josko/), Tomasz Ksiezyck, [Ralph Grishman](https://cs.nyu.edu/~grishman/)
 * [Causal Relation Extraction](http://lrec-conf.org/proceedings/lrec2008/pdf/87_paper.pdf) (2008)
 * [Handling Multiword Expressions in Causality Estimation](https://aclanthology.org/W17-6937.pdf) (2017)
 * [Joint Reasoning for Temporal and Causal Relations](https://aclanthology.org/P18-1212.pdf) (2018)
