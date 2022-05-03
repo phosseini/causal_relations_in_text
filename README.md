@@ -14,4 +14,4 @@ For a complete list of datasets and benchmarks, check the following repository:
 
 ## Surveys
 * [Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey](https://arxiv.org/abs/1605.07895) (2016)
-* [A Survey on Extraction of Causal Relations from Natural Language Text](https://arxiv.org/abs/2101.06426) (2021)
+* [A Survey on Extraction of Causal Relations from Natural Language Text](https://link.springer.com/content/pdf/10.1007/s10115-022-01665-w.pdf) (2021)
