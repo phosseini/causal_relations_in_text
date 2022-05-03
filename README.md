@@ -28,3 +28,5 @@ This is a list of people who contributed to the research around Cause-Effect Rel
 * Tomasz Ksiezyck
 * [Ralph Grishman](https://cs.nyu.edu/~grishman/)
 * [Christpher Khoo](https://blogs.ntu.edu.sg/dh/khoo-soo-guan-christopher/)
+* [(Corina) Roxana Girju](https://linguistics.illinois.edu/directory/profile/girju)
+* [Eduardo Blanco](https://isearch.asu.edu/profile/3996580)
