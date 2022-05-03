@@ -19,3 +19,4 @@ Sentences from News](https://arxiv.org/pdf/2204.11714.pdf) (2022)
 ## Surveys
 * [Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey](https://arxiv.org/abs/1605.07895) (2016)
 * [A Survey on Extraction of Causal Relations from Natural Language Text](https://link.springer.com/content/pdf/10.1007/s10115-022-01665-w.pdf) (2021)
+* [A Survey of the Extraction and Applications of Causal Relations](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-the-extraction-and-applications-of-causal-relations/8B43AC51BE1F0B53B82DA99997DBC7E6) (2022)
