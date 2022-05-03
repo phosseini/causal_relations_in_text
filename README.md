@@ -1,4 +1,4 @@
-# Causal Relation Extraction in Natural Language Text
+# Cause-Effect Relations in Natural Language Text
 
 ## Papers
 * [Deep domain models for discourse analysis](https://ieeexplore.ieee.org/document/47325) (1989)
