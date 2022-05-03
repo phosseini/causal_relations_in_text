@@ -20,3 +20,11 @@ Sentences from News](https://arxiv.org/pdf/2204.11714.pdf) (2022)
 * [Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey](https://arxiv.org/abs/1605.07895) (2016)
 * [A Survey on Extraction of Causal Relations from Natural Language Text](https://link.springer.com/content/pdf/10.1007/s10115-022-01665-w.pdf) (2021)
 * [A Survey of the Extraction and Applications of Causal Relations](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-the-extraction-and-applications-of-causal-relations/8B43AC51BE1F0B53B82DA99997DBC7E6) (2022)
+
+## People (Causality Hall of Fame) (updating...)
+This is a list of people who contributed to the research around Cause-Effect Relations in text and natural language over time. I know that my knowledge is limited and I will probably miss some important names (that's why PRs are always appreciated,) but I thought it may be at least a good start to both documenting the progress that has been made over the years on this topic and acknowledging the meaningful contributions that researchers made to pass the torch to the next generation of researchers on causal relations in text and move this field forward.
+
+* [Leo Joskowicz](https://www.cs.huji.ac.il/~josko/)
+* Tomasz Ksiezyck
+* [Ralph Grishman](https://cs.nyu.edu/~grishman/)
+* [Christpher Khoo](https://blogs.ntu.edu.sg/dh/khoo-soo-guan-christopher/)
